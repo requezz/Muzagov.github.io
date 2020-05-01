@@ -1,3 +1,3 @@
 # Мои работы
-- [Моя вёрска](https://Muzagov.github.io/Finish/)
-- [Моя вёрска на ангулар](https://Muzagov.github.io/finishAng/)
+- [Моя вёрстка](https://Muzagov.github.io/Finish/)
+- [Моя вёрстка на ангулар](https://Muzagov.github.io/finishAng/)
