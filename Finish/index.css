@@ -6,7 +6,7 @@
   cursor: pointer;
 }
 .nav-link:hover {
-  color: silver;
+	color: gray;
 }
 .icon {
   font-family: "Roboto", sans-serif;
@@ -332,7 +332,7 @@
   font-size: 50px;
   padding-bottom: 15px;
 }
-.cont8 .box4,
+.box4,
 .box5,
 .box6 {
   background-color: white;
@@ -341,7 +341,7 @@
   box-shadow: 0 0 30px 0 gainsboro;
 }
 .box4 {
-  margin-bottom: : 100px;
+  margin-top: 100px;
 }
 .box5 {
   margin: -30px 0 20px 0;
