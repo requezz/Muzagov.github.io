@@ -1,25 +1,30 @@
 .header {
   margin-top: 20px;
 }
+
 .nav-link {
   font-family: "Roboto", sans-serif;
   cursor: pointer;
 }
-.nav-link:hover {
+
+.header .nav-link:hover {
 	color: gray;
 }
->>>>>>> feature
+
 .icon {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   margin-top: 5px
 }
+
 .icon1 {
   position: relative;
 }
+
 .icon2 {
   margin-left: 25px;
 }
+
 .zero {
   position: absolute;
   top: 0;
@@ -35,6 +40,7 @@
   font-size: small;
   z-index: 99;
 }
+
 .icons {
   margin-top: 10px;
 }
@@ -43,21 +49,24 @@
 
 .cont1 {
   margin-top: 20px;
-  background: url("images/79.jpg") no-repeat;
+  background: url("images/2020-04-25-20-46-100.jpg") no-repeat;
   height: 900px;
   position: relative;
 }
+
 .zag {
   color: white;
   text-align: center;
   font-size: 50pt;
   margin-top: 330px;
 }
+
 .text1 {
   color: white;
   text-align: center;
   font-size: 1em;
 }
+
 .btn2 {
   width: 120px;
   height: 40px;
@@ -66,26 +75,32 @@
   border: none;
   border-radius: 3px;
 }
+
 .arrow {
   color: white;
   text-align: right;
   margin-top: 50px;
   font-size: 20px;
 }
+
 .arrow:hover {
   color: #3fb5db;
 }
+
 .cont2 {
   position: absolute;
   z-index: 99;
   justify-content: center;
   border-radius: 10px;
+  width: 1650px;
   top: 720px;
   left: 140px;
 }
+
 .text3 {
   opacity: 0.5;
 }
+
 .box1,
 .box2,
 .box3  {
@@ -97,23 +112,28 @@
   padding-top: 50px;
   padding-left: 25px;
 }
+
 .box1:hover,
 .box2:hover,
 .box3:hover {
   border-bottom: 2px solid #3fb5db;
 }
+
 .abc {
   color:#3fb5db;
 }
+
 .icon3 {
   color: #3fb5db;
   font-size: 45px;
 }
+
 .icon4 {
   padding-left: 230px;
   opacity: 0.4;
   font-size: 20px;
 }
+
 .icon4:hover {
   color: #3fb5db;
 }
@@ -123,6 +143,7 @@
 .cont3 {
   margin: 200px 0 100px 0;
 }
+
 .btn3 {
   text-align: center;
   width: 130px;
@@ -131,6 +152,7 @@
   margin-top: 20px;
   font-size: .9em;
 }
+
 .container3 {
   margin-top: 30px;
   font-size: .9em;
@@ -141,6 +163,7 @@
 .cont4 {
   margin: auto;
 }
+
 .icon5 {
   font-size: 45px;
   color: #3fb5db;
@@ -161,21 +184,25 @@
   text-align: center;
   border-radius: 150px;
 }
+
 .ico {
   height: 10px;
   background: linear-gradient(45deg, #add8e6, #007bff);
   border-radius: 3px;
 }
+
 .ico1 {
   height: 10px;
   opacity: 0.2;
   background-color: silver;
   border-radius: 3px;
 }
+
 .i1, .i2, .i3, .i4, .i5 {
   font-weight: 900;
   margin-top: 50px;
 }
+
 .i2, .i3, .i4, .i5 {
   margin-top: 46px;
 }
@@ -187,13 +214,16 @@
   text-align: center;
   display: flex;
 }
+
 .cont6 h2, h5 {
   font-family: "Roboto", sans-serif;
   padding-bottom: 10px;
 }
+
 .cont6 p {
   opacity: 0.7;
 }
+
 .circle {
   background-color:  #3fb5db;
   border-radius: 50%;
@@ -207,6 +237,7 @@
   margin-top: 10px;
   font-size: 20px;
 }
+
 .circle2 {
   display: inline-block;
   width: 70px;
@@ -217,6 +248,7 @@
   line-height: 30px;
   font-size: 20px;
 }
+
 .circle3 {
   display: inline-block;
   width: 100px;
@@ -245,9 +277,11 @@
   position: relative;
   text-align: center;
 }
+
 .photo1:hover {
   opacity: 1;
 }
+
 .photo2 {
   background: url("images/e24d010381b19f7683393ffb3c34f47a.jpg") no-repeat;
   border-radius: 10px;
@@ -257,9 +291,11 @@
   position: relative;
   text-align: center;
 }
+
 .photo2:hover {
   opacity: 1;
 }
+
 .portfolio {
   position: absolute;
   box-shadow: 0 0 2px 0;
@@ -272,18 +308,22 @@
   height: 80px;
   padding-top: 20px;
 }
+
 .portfolio:hover {
   margin-top: -30px;
   color: #3fb5db;
 }
+
  .cont7 i {
   font-size: 20px;
   opacity: 0.5;
   margin-left: 350px;
 }
+
  .cont7 i:hover {
   padding-top: -100px;
 }
+
 .view {
   margin-top: 100px;
   border: 1px solid #3fb5db;
@@ -296,6 +336,7 @@
   cursor: pointer;
   border-radius: 5px;
 }
+
 .view:hover {
   box-shadow: 0 0 5px 0;
 }
@@ -315,24 +356,29 @@
   padding-top: 20px;
   opacity: 0.5;
 }
+
 .arr:hover {
   color: #3fb5db;
 }
+
  .cont8 h2 {
   font-family: "Roboto", sans-serif;
   padding-bottom: 10px;
 }
+
 .cont8 .btn4 {
   margin-top: 30px;
   width: 120px;
   height: 40px;
   font-size: .9em;
 }
+
 .icon5 {
   color: #3fb5db;
   font-size: 50px;
   padding-bottom: 15px;
 }
+
 .box4,
 .box5,
 .box6 {
@@ -341,9 +387,11 @@
   padding: 20px;
   box-shadow: 0 0 30px 0 gainsboro;
 }
+
 .box4 {
   margin-top: 100px;
 }
+
 .box5 {
   margin: -30px 0 20px 0;
 }
@@ -353,7 +401,7 @@
 .cont9 {
   margin: 150px 0 0 150px;
 }
-}
+
 .cont9 h1{
   color: #3fb5db;
 }
@@ -363,6 +411,7 @@
 .cont10 {
   margin: 30px 0 0 150px;
 }
+
 .cont10 h1 {
   padding-top: 100px;
   text-align: center;
@@ -372,19 +421,23 @@
   opacity: 0.5;
   font-size: 35px;
 }
+
 .cont10 .text {
   font-size: 0.6em;
 }
+
 .avatar {
   width: 50px;
   height: 50px;
   display: inline-block;
 }
+
 .cont10 img {
   width: 40px;
   height: 40px;
   border-radius: 50%;
 }
+
 .about {
   border-radius: 5px;
   box-shadow: 0 0 30px 0 gainsboro;
@@ -392,22 +445,27 @@
   padding: 10px;
   width: 200px;
 }
+
 .about:hover {
   box-shadow: 0 0 30px 0 gainsboro;
   opacity: 1;
 }
+
 .name {
   display: inline-block;
   line-height: 15px;
   margin-top: 10px;
 }
+
 .rating {
   color: orange;
 }
+
 .cont10 p {
   margin-bottom: 50px;
   text-align: center;
 }
+
 .points {
   margin: auto;
   width: 200px;
@@ -417,6 +475,7 @@
   opacity: 0.5;
   color: #3fb5db;
 }
+
 .points:hover {
   opacity: 1;
 }
@@ -436,6 +495,7 @@
   margin-top: 100px;
   background: url("https://online-kassa.ru/wp-content/uploads/2019/02/budget3.jpg") no-repeat;
 }
+
 .cont12 h6 {
   margin-left: 50px;
   padding-top: 200px;
@@ -445,9 +505,11 @@
   font-family: "Roboto", sans-serif;
   font-size: 50px;
 }
+
 .and {
   font-size: 30px;
 }
+
 .cont12 .btn6 {
   margin-top: 20px;
 }
@@ -457,6 +519,7 @@
 .footer {
   margin-top: 100px;
 }
+
 .icons1 {
   padding-top: 20px;
   display: flex;
@@ -464,6 +527,7 @@
   height: 85px;
   margin-top: 15px;
 }
+
 .footer .icon{
   border: 1px solid gray;
   border-radius: 50%;
@@ -473,15 +537,17 @@
   padding-top: 10px;
   margin-right: 15px;
 }
+
  .footer .icon:hover {
   background-color: #007bff;
   color: white;
   opacity: 1;
-
 }
+
  .footer i {
   opacity: 0.5;
 }
+
 .footer .text:hover {
   color: #007bff;
   text-decoration: underline;
