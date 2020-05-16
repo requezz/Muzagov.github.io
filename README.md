@@ -5,5 +5,5 @@
 - [Список дел](https://Muzagov.github.io/todo/)
 - [Вёрстка на Angular](https://Muzagov.github.io/testing/)
 - [Вёрстка](https://Muzagov.github.io/testing-two/)
-- [Вёрстка-2](https://Muzagov.github.io/testing-one)
+- [Вёрстка-2](https://Muzagov.github.io/testing-one/)
 
