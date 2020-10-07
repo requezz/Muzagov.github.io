@@ -5,5 +5,6 @@
 - [Список дел](https://Muzagov.github.io/todo/)
 - [Вёрстка на Angular](https://Muzagov.github.io/testing/)
 - [Вёрстка](https://Muzagov.github.io/testing-two/)
+- [Приложение на Redux](https://Muzagov.github.io/build/)
 
 
